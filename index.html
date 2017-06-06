@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html id="view">
+    <head>
+        <title>Clock3</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+        <link rel="icon" type="image/png" href="images/Clock16.png" />
+        <link rel="icon" type="image/png" href="images/Clock48.png" />
+		
+
+		<script type="text/javascript" data-btkid="page::info" src="scripts/page.js"></script>
+        
+		<script type="text/javascript" data-btkid="btk::btk" src="scripts/util.js"></script>
+		
+		<script type="text/javascript" data-btkid="btk::timer" src="scripts/timer.js"></script>
+
+		<script type="text/javascript" data-btkid="page::main" src="scripts/main.js"></script>
+
+
+		<link rel="stylesheet" type="text/css" href="scripts/base.css">
+		<link rel="stylesheet" type="text/css" href="scripts/box.css">
+		<link rel="stylesheet" type="text/css" href="scripts/main.css">
+
+    </head>
+	<body>
+		<div class="expand box vertical align-stretch">
+			<div id="header" class="header">header</div>
+			<div id="clockView" class="flex clockView box vertical align-stretch">
+				<div id="clockDay" class="clockDay">someday</div>
+				<div class="flex box vertical pack-center align-stretch">
+					<div id="clockTime" class="clockTime">00:00:00</div>
+				</div>
+				<div id="clockDate" class="clockDate">0000-00-00</div>
+			</div>
+			<div id="footer" class="footer">footer</div>
+		</div>
+
+		<script type="text/javascript">
+			page.main();
+		</script>
+	</body>
+</html>

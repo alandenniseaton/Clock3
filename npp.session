@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="920" startPos="481" endPos="481" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Alan\Documents\GitHub\Clock3\index.html" backupFilePath="" originalFileLastModifTimestamp="1496713365" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="33" mapNbLine="33" mapHigherPos="-1" mapWidth="175" mapHeight="99" mapKByteInDoc="1" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="760" startPos="525" endPos="525" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Alan\Documents\GitHub\Clock3\scripts\main.js" backupFilePath="" originalFileLastModifTimestamp="1496713170" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="33" mapNbLine="33" mapHigherPos="-1" mapWidth="175" mapHeight="99" mapKByteInDoc="3" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="161" xOffset="0" scrollWidth="560" startPos="1780" endPos="1780" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Alan\Documents\GitHub\Clock3\scripts\timer.js" backupFilePath="" originalFileLastModifTimestamp="1496717059" mapFirstVisibleDisplayLine="18" mapFirstVisibleDocLine="18" mapLastVisibleDocLine="51" mapNbLine="33" mapHigherPos="-1" mapWidth="175" mapHeight="99" mapKByteInDoc="4" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="536" startPos="455" endPos="455" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Alan\Documents\GitHub\Clock3\scripts\page.js" backupFilePath="" originalFileLastModifTimestamp="1496713212" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="33" mapNbLine="33" mapHigherPos="-1" mapWidth="178" mapHeight="99" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="904" startPos="3153" endPos="3153" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Alan\Documents\GitHub\Clock3\scripts\util.js" backupFilePath="" originalFileLastModifTimestamp="1496715767" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="33" mapNbLine="33" mapHigherPos="-1" mapWidth="175" mapHeight="99" mapKByteInDoc="3" mapWrapIndentMode="1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
