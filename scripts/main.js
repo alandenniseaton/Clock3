@@ -146,3 +146,6 @@ page.main = function(){
 	page.timer = new Timer(tick, Timer.SECOND).repeat().start(0);
 };
 
+
+window.addEventListener('load', page.main);
+
