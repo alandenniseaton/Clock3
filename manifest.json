@@ -1,0 +1,25 @@
+{
+  "short_name": "Clock",
+  "name": "Simple Clock",
+  "icons": [
+    {
+      "src": "images/Clock16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "images/Clock48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/Clock128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "theme_color": "black"
+}
