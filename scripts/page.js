@@ -13,7 +13,7 @@ var page = {
         title: "Clock3",
         version: {
             date: new Date("Jun 06 2017 09:46:00 GMT+1000"),
-            number: {major: 0, minor: 0, patch: 0}
+            number: {major: 1, minor: 0, patch: 0}
         }
     }
 };
